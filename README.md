@@ -8,3 +8,8 @@ Exercicio de POO com Java, para implementar conceitos como atributos, métodos e
 Clone esse repositório e siga os seguinter passos:
 Compile usando `javac Lampada.java Main.java`
 e rode `java Main`
+
+## Funcionalidades
+- Ligar lâmpada
+- Deligar lâmpada
+- Mostrar o estado da lâmpada
