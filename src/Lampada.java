@@ -1,5 +1,3 @@
-package exercicio.lampada;
-
 public class Lampada {
     private boolean estado;
 
