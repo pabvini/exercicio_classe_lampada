@@ -5,9 +5,9 @@ Classe em Java representando uma lâmpada comum.
 Exercicio de POO com Java, para implementar conceitos como atributos, métodos e encapsulamento.
 
 ## Como executar
-Clone esse repositório e siga os seguinter passos:
-Compile usando `javac Lampada.java Main.java`
-e rode `java Main`
+Clone esse repositório e siga os seguinter passos usando o terminal:
+- Compile usando `javac Lampada.java Main.java`
+- Rode usando `java Main`
 
 ## Funcionalidades
 - Ligar lâmpada
